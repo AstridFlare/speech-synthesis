@@ -1,4 +1,3 @@
-# speech-synthesis
-Using Web Speech API
+# Speech Synthesis Using Web Speech API
 
-Checkout the live demo: 
+### Checkout the live demo: https://astridflare.github.io/speech-synthesis/ 
